@@ -4,4 +4,4 @@ compatibility_date = "2024-10-01"
 
 [[kv_namespaces]]
 binding = "CAMPFUEL_KV"
-id = "REPLACE_WITH_YOUR_KV_ID"
+id = "9f43cb51547c47f6ab6798ff48910aaf"
