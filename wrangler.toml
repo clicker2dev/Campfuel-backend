@@ -1,0 +1,7 @@
+name = "campfuel-backend"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+[[kv_namespaces]]
+binding = "CAMPFUEL_KV"
+id = "REPLACE_WITH_YOUR_KV_ID"
